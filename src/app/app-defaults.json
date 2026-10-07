@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "appId": "liquidium",
+  "state": {
+    "values": {
+      "export.includeBackground": true,
+      "appearance.background": "#08080D",
+      "canvas.workspaceBackground": "dots",
+      "canvas.aspectRatio": {
+        "height": 16,
+        "mode": "preset",
+        "value": "9:16",
+        "width": 9
+      },
+      "canvas.size.width": 1080,
+      "canvas.size.height": 1920,
+      "shape.kind": "image",
+      "shape.scale": 0.61,
+      "shape.x": 0,
+      "shape.y": 0,
+      "edge.bevel": 0.014,
+      "edge.highlight": 0.12,
+      "edge.softness": 0,
+      "metal.repetition": 2.2,
+      "metal.softness": 0.02,
+      "metal.distortion": 0.16,
+      "metal.angle": 66,
+      "metal.tint": "#D9DBF7",
+      "metal.shiftRed": 0.3,
+      "metal.shiftBlue": 0.3,
+      "motion.speed": 0.5,
+      "export.image.format": "png",
+      "export.image.resolution": "4k",
+      "export.video.format": "mp4",
+      "export.video.resolution": "current"
+    },
+    "canvas": {
+      "offset": {
+        "x": -53.46666666666658,
+        "y": -79.93333333333331
+      },
+      "size": {
+        "height": 1920,
+        "unit": "px",
+        "width": 1080
+      },
+      "zoom": 25,
+      "mode": "finite"
+    },
+    "panels": {
+      "controls": {
+        "collapsedSections": {},
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "scrollTop": 0
+      },
+      "layers": {
+        "offset": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "timeline": {
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "extended": false
+      },
+      "toolbar": {
+        "offset": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    "timeline": {
+      "currentTimeSeconds": 9.702199999998628,
+      "durationSeconds": 16,
+      "expanded": false,
+      "isLooping": true,
+      "isPlaying": true,
+      "selectedKeyframeId": null,
+      "keyframeGroups": []
+    },
+    "layers": [
+      {
+        "id": "layer-1",
+        "name": "EZguy",
+        "visible": true,
+        "kind": "layer",
+        "displayName": "EZguy"
+      }
+    ],
+    "selectedLayerId": "layer-1",
+    "mediaAssets": [
+      {
+        "lifecycle": "restoring",
+        "resourceRef": "media:file:sha256:2b46330adc669c51ad2e1e49d21210a70720b5cec5ec6ed4dcefcec8ec5bb7d2",
+        "assetKind": "file",
+        "fileName": "EZguy.svg",
+        "sourcePaths": [
+          "EZguy.svg"
+        ],
+        "id": "media-1",
+        "layerId": "layer-1",
+        "mimeType": "image/svg+xml",
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "sourceTarget": "shape.image"
+      }
+    ]
+  },
+  "resources": [
+    {
+      "ref": "media:file:sha256:2b46330adc669c51ad2e1e49d21210a70720b5cec5ec6ed4dcefcec8ec5bb7d2",
+      "path": "toolcraft-defaults/files/2b46330adc669c51ad2e1e49d21210a70720b5cec5ec6ed4dcefcec8ec5bb7d2.bin",
+      "sha256": "2b46330adc669c51ad2e1e49d21210a70720b5cec5ec6ed4dcefcec8ec5bb7d2",
+      "byteLength": 1130,
+      "contentType": "image/svg+xml",
+      "dependencies": [],
+      "durable": true
+    }
+  ],
+  "theme": "dark"
+}
