@@ -2,7 +2,7 @@
 
 Animated liquid-metal effect for shapes and logos. A flowing chrome reflection with colour fringes, a polished bevel on the edge, and export to image or video.
 
-**Try it:** https://genz000.github.io/liquidium/ (desktop browser, window at least 1024 px wide)
+**Try it:** https://genz000.github.io/Liquidium/ (desktop browser, window at least 1024 px wide)
 
 ## What it does
 
